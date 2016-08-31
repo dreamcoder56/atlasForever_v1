@@ -42,11 +42,11 @@
 		C0B3A4281D76B6B400B2DE9A /* atlasForeverUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = atlasForeverUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0B3A42C1D76B6B400B2DE9A /* atlasForeverUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = atlasForeverUITests.swift; sourceTree = "<group>"; };
 		C0B3A42E1D76B6B400B2DE9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C0B3A43A1D76B6E900B2DE9A /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ../../../AnimationHelper/animationHelper/animationHelper/AppDelegate.swift; sourceTree = "<group>"; };
-		C0B3A43B1D76B6E900B2DE9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../AnimationHelper/animationHelper/animationHelper/Assets.xcassets; sourceTree = "<group>"; };
+		C0B3A43A1D76B6E900B2DE9A /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C0B3A43B1D76B6E900B2DE9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0B3A43C1D76B6E900B2DE9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		C0B3A43E1D76B6E900B2DE9A /* NSAnimatedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NSAnimatedButton.swift; path = ../../../AnimationHelper/animationHelper/animationHelper/NSAnimatedButton.swift; sourceTree = "<group>"; };
-		C0B3A43F1D76B6E900B2DE9A /* mainNSWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = mainNSWindow.swift; path = ../../../AnimationHelper/animationHelper/animationHelper/mainNSWindow.swift; sourceTree = "<group>"; };
+		C0B3A43E1D76B6E900B2DE9A /* NSAnimatedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSAnimatedButton.swift; sourceTree = "<group>"; };
+		C0B3A43F1D76B6E900B2DE9A /* mainNSWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mainNSWindow.swift; sourceTree = "<group>"; };
 		C0B3A4471D76B77000B2DE9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -301,7 +301,7 @@
 				C0B3A43C1D76B6E900B2DE9A /* Base */,
 			);
 			name = MainMenu.xib;
-			path = ../../../AnimationHelper/animationHelper/animationHelper;
+			path = ../../../../.Trash/AnimationHelper/animationHelper/animationHelper;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -482,6 +482,7 @@
 				C0B3A4331D76B6B400B2DE9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C0B3A4341D76B6B400B2DE9A /* Build configuration list for PBXNativeTarget "atlasForeverTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				C0B3A4361D76B6B400B2DE9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C0B3A4371D76B6B400B2DE9A /* Build configuration list for PBXNativeTarget "atlasForeverUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				C0B3A4391D76B6B400B2DE9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
