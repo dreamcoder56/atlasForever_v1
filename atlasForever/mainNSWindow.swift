@@ -42,6 +42,7 @@ class mainNSWindow: NSWindow
         super.awakeFromNib()
         
         aniamtedButtonArray = [animatedButton1, animatedButton2, animatedButton3, aniamtedButton4]
+        //Green
         
         
         imageViewer.wantsLayer = true
